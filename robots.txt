@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://kickbackdash.github.io/sitemap.xml
